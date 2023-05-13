@@ -1,0 +1,8 @@
+{
+  "domain": "tuya_power",
+  "name": "tuya_power",
+  "documentation": "https://gitee.com/ck6688/tuya_power",
+  "version": "0.0.1",
+  "dependencies": [],
+  "codeowners": []
+}
