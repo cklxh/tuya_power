@@ -1,6 +1,5 @@
 {
   "name": "tuya_power",
   "render_readme": true,
-  "filename":"colorfulclouds-weather-card.js",
-  "country": ["CN"]
+  "homeassistant": "2022.8"
 }
